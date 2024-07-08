@@ -1,0 +1,20 @@
+{
+  "name": "japan-job-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node src/index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/express": "^4.17.21",
+    "@types/node": "^20.14.9",
+    "express": "^4.19.2",
+    "nodemailer": "^6.9.14",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.5.3"
+  }
+}
